@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ogc16
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on hackathon
+- 💞️ I’m looking to collaborate on a hackathon
 - 📫 Reach me on email ngenokibetcaleb@gmail.com
                  WhatsApp +254703871410
 
