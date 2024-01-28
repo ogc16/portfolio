@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ogc16
+- I run an IT consultancy. www.techgaetano.co.ke
 - 👀 I’m interested in cybersecurity,data science,software developer,fullstack developer,graphic design
-- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on a hackathon-python
 - 📫 Reach me on email ngenokibetcaleb@gmail.com
                  WhatsApp +254703871410
