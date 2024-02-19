@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ogc16
 - I run an IT consultancy. www.techgaetano.co.ke
-- 👀 I’m interested in cybersecurity,data science,software developer,fullstack developer,graphic design
-- 💞️ I’m looking to collaborate on a hackathon-python
-- 📫 Reach me on email ngenokibetcaleb@gmail.com
+- 👀 I have vested interest in cybersecurity,data science,software development,fullstack development,graphic design.
+- 💞️ Let us link.
+- Currently developing systems and software infrastructure for MSME's.
+- 📫 Reach me on email: caleb@techgaetano.co.ke
                  WhatsApp +254703871410
 
 <!---
