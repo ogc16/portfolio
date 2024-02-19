@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ogc16
+- 👋 Hi, I’m Caleb, an IT professional with 6 years of professional experience as a software developer.
 - I run an IT consultancy. www.techgaetano.co.ke
 - 👀 I have vested interest in cybersecurity,data science,software development,fullstack development,graphic design.
 - 💞️ Let us link.
