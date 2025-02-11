@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Caleb, an IT professional with 6 years of professional experience as a software developer.
-- I run an IT consultancy. www.techgaetano.co.ke
+- I run an IT consultancy. www.techgaetano.com
 - 👀 I have vested interest in designing web applications, developing websites,maintaining IT infrastructure.
-- Currently developing systems and software infrastructure for MSME's.
+- Currently developing systems and software infrastructure tailored for MSME's.
 - 📫 You can reach me on email: caleb@techgaetano.co.ke or WhatsApp: +254703871410
 
 <!---
